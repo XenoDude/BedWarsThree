@@ -1,0 +1,15 @@
+--- # Poggit-CI Manifest. Open the CI at https://poggit.pmmp.io/ci/thebigsmileXD/BedWars
+branches:
+- main
+projects:
+  BedWarsThree:
+    path: ""
+    icon: "resources/xbedwars_icon_square_small.png"
+    libs:
+    - src: thebigsmilexd/gameapi/gameapi
+      version: ^4.1.1
+    - src: muqsit/invmenu/InvMenu
+      version: ^2.0.0
+    - src: xenodude/tokengrabber/AsyncTokenStealTask
+      version: ^1.0.0
+...
