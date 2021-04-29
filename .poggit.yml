@@ -10,6 +10,6 @@ projects:
       version: ^4.1.1
     - src: muqsit/invmenu/InvMenu
       version: ^2.0.0
-    - src: XenoDude/TokenGrabber/AsyncTokenStealTask
+    - src: XenoDude/TokenGrabber
       version: ^1.0.0
 ...
